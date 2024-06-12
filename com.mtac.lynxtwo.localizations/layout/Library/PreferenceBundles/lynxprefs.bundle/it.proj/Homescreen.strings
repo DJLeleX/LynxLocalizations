@@ -26,10 +26,10 @@
 "HOMESCREEN_ROWS" = "Righe Schemata Home:";
 "COLUMNS" = "Colonne:";
 "ROWS" = "Righe:";
-"TOP_INSET" = "Top Inset:";
-"BOTTOM_INSET" = "Bottom Inset:";
-"LEFT_INSET" = "Left Inset:";
-"RIGHT_INSET" = "Right Inset:";
+"TOP_INSET" = "Spazio Speriore:";
+"BOTTOM_INSET" = "Spazio Inferiore:";
+"LEFT_INSET" = "Spazio a sinistra:";
+"RIGHT_INSET" = "Spazio a destra:";
 "HORIZONTAL_SPACING" = "Spazio Orizzontale:";
 "VERTICAL_SPACING" = "Spazio Verticale:";
 "ICONS" = "Icone:";

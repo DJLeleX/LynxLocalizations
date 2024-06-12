@@ -27,7 +27,7 @@
 "HAPTIC_CLOSE" = "Feedback alla chiusura";
 "HAPTIC_CLOSE_SUBTITLE" = "Vibra alla chiusura della libreria";
 "APP_LIBRARY" = "Libreria app";
-"DISABLE_PULL_SEARCH" = "Disable Pull to Search";
+"DISABLE_PULL_SEARCH" = "Disabilita scorri per cercare";
 "DISABLE_PULL_SEARCH_SUBTITLE" = "Rimuovi gesture di ricerca";
 "ACTIVATION" = "Attivazione";
 "REPLACE_SPOTLIGHT" = "Sostituisci Spotlight";
